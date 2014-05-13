@@ -18,6 +18,7 @@ Jekyll 基本能满足我对Blog的需求。默认样式简洁，又可自定义
 安装Jekyll没有费太多功夫，主要是他们网站做得还不错，跟着http://jekyllrb.com一步一步做就OK了。
 
 简要记录一下流程
+
 - 在github上创建一个repo，名字叫 <username>.github.io，并clone到本地
 - sudo gem install jekyll
 - 在clone出来文件夹的上层，用`jekyll new <username>.github.io --force`将repo目录设置为jekyll的主目录
