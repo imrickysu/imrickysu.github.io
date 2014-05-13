@@ -9,9 +9,10 @@ categories: Misc
 
 驱动我转换的主要原因有几个：
 
-- 最近用Git比较多。希望写完之后能直接git push，而不是登录到wordpress后台，粘贴用Markdown写的内容，然后再发布。而且，我总是忘记后台的密码@_@
+- 最近用Git比较多。希望写完之后能直接git push，而不是登录到wordpress后台，粘贴用Markdown写的内容，然后再发布。
 - 已经越来越少写Blog，要把Blog养在VPS上，感觉好浪费。再说又买了云梯，VPS就真没太多需求了。
 - 希望写Blog的流程能简单再简单，不知道这样我会不会多写几篇。
+- 不知道是我升级Wordpress出问题还是遭到攻击，后台怎么也登不进去，后来还是用了[这个方法]才能登录后台。用Github的服务相信出这样的事情的概率小很多。
 
 Jekyll 基本能满足我对Blog的需求。默认样式简洁，又可自定义。可以插代码，可以插图片，可以Source Control.
 
@@ -33,3 +34,4 @@ Jekyll 基本能满足我对Blog的需求。默认样式简洁，又可自定义
 
 
 [jekyll]:    http://jekyllrb.com
+[这个方法]:    http://codex.wordpress.org/Resetting_Your_Password
