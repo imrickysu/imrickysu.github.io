@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey, 欢迎来到我的网站。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+我是 Ricky，一个工程师。以下是我三年前写的自我介绍。最近看来是要更新一下了。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+从我的技术网站 FPGANotes.com ，相信你很容易猜出我是做什么的。
+
+我是一个低调的工程师，自我介绍什么的，我最不擅长了。
+
+我写博客，一来是希望自己的经验能被分享，二来督促自己人生短暂，要多折腾，多玩味，多分享。
+
+我喜欢 Geek 的产品和想法。喜欢 Quick & Dirty。喜欢创新的应用。
+
+我喜欢能让生活更美好的事务。喜欢 Simple & Stupid，喜欢寻找生活中的 Gap。喜欢自由的环境。
