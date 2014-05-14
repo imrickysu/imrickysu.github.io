@@ -2,7 +2,7 @@
 layout: post
 title:  "Move to Jekyll"
 date:   2014-05-13 22:13:50
-categories: Misc
+categories: Tools
 ---
 
 从Wordpress转到了[Jekyll]。

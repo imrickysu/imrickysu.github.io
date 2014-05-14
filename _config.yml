@@ -1,9 +1,9 @@
 # Site settings
 title: 不够折腾
 email: i@rickysu.com
-description: ""
+description: “折腾是一种我向往的精神。或者是对什么都有点好奇心，或者是深入挖掘追根究底，或者是建造些什么。总之现在我还不够折腾，要折腾更多才是”
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://imrickysu.github.io”
 
 # Build settings
 markdown: kramdown

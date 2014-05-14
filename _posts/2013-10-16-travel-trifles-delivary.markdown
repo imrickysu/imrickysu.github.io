@@ -2,7 +2,7 @@
 layout: post
 title:  "旅行小事之找快递"
 date:   2013-10-16 22:13:50
-categories: Misc
+categories: Travel
 ---
 
 美国行程中碰到各种靠谱的和不靠谱的故事，这就是一个不靠谱的。

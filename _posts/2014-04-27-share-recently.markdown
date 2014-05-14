@@ -2,7 +2,7 @@
 layout: post
 title:  "最近想分享的一些东西"
 date:   2014-04-27 22:13:50
-categories: Misc
+categories: Tools
 ---
 
 
