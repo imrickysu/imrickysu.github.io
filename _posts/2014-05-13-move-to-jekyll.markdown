@@ -29,6 +29,10 @@ Jekyll 基本能满足我对Blog的需求。默认样式简洁，又可自定义
 - 删除上面生成的_site文件夹，`git add *`，然后commit并push。
 - 等几分钟，网站就出现在<username>.github.io上了
 
+一些用法
+
+- 如果要添加图片，就在根目录中建一个images目录，引用时使用`/images/xx.png`。如果不是从根目录引用，可以用`{{site.url}}/xx/images/xx.png`的绝对路径方式。
+
 如果后续还要修改样式等等，可以参考Jekyll的官方网站文档。
 
 
