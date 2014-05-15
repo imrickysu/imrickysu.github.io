@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "中信银行代传递免面试流程"
+title:  "美国签证中信银行代传递免面试流程"
 date:   2015-05-15 21:27:50
-categories: Misc
+categories: Travel
 ---
 
+如果上一次的美国签证是在4年内实效的，签证上没有clear的字样，基本就能符合免面试的要求。通过中信银行递交材料的话，只需要通过以下步骤，就可以拿到签证了。
 
-## 中信银行代传递免面试流程
 1. 拍照
   
-  方形，48mm x 48mm。白底。到照相馆说美国签证照，或者在地铁站的Photo-Me自助照相都可以。
+  方形，48mm x 48mm。白底。到照相馆说美国签证照，或者在地铁站的Photo-Me自助照相都可以。由于签证要求六个月内的照片，不可以用以前申请递交过的照片。
 
 2. 查看[美国非移民签证申请信息](http://www.ustraveldocs.com/cn_zh/cn-niv-visaapply.asp)，确定自己符合免面试要求。
 3. 填写[DS160](https://ceac.state.gov/genniv)
