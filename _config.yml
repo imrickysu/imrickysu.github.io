@@ -7,5 +7,6 @@ url: "http://imrickysu.github.io"
 
 # Build settings
 markdown: kramdown
+kramdown:
   input: GFM
 permalink: pretty
