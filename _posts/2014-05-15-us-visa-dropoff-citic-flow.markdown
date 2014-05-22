@@ -9,7 +9,7 @@ categories: Travel
 
 1. 拍照
   
-  方形，48mm x 48mm。白底。到照相馆说美国签证照，或者在地铁站的Photo-Me自助照相都可以。由于签证要求六个月内的照片，不可以用以前申请递交过的照片。
+  方形，51mm x 51mm。白底，正面。到照相馆说美国签证照，或者在地铁站的Photo-Me自助照相都可以。由于签证要求六个月内的照片，一定不可以用以前申请递交过的照片。
 
 2. 查看[美国非移民签证申请信息](http://www.ustraveldocs.com/cn_zh/cn-niv-visaapply.asp)，确定自己符合免面试要求。
 3. 填写[DS160](https://ceac.state.gov/genniv)
