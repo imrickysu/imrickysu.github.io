@@ -5,6 +5,32 @@ description: "折腾是一种我向往的精神。或是对什么都有点好奇
 baseurl: ""
 url: "http://imrickysu.github.io"
 
+signoff:          Ricky # Your name.
+disqus_shortname: rickysu-jekyll # disqus comment thread for post header options. ( leave blank if unwanted. )
+google_analytics_id: UA-51284079-1 # set tracking, UA-XXXX-Y.
+
+links:
+  - name:         About
+    url:          /about
+  - name:         Feed
+    url:          /feed.xml
+#  - name:         Blog
+#    url:          http://chloerei.com
+#    external:     true
+  - name:         Email
+    url:          mailto:i@rickysu.com
+    external:     true
+#  - name:         GitHub
+#    url:          http://github.com/chloerei/scribble
+#    external:     true
+
+
+
+
+
+
+
+
 # Build settings
 markdown: kramdown
 kramdown:
