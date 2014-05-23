@@ -22,7 +22,8 @@ categories: Travel
 
 5. 通过中信银行网站或者中信银行ATM缴费。
 
-    如果是从中信银行网站上缴费，步骤还挺复杂的。[这个网页](http://tigtag.com/thread-2489307-1-1.html)里介绍的挺详细
+    如果是从[中信银行网站](https://mall.bank.ecitic.com/fmall/vi/visa-pay.html
+)上缴费，步骤还挺复杂的。[这个网页](http://tigtag.com/thread-2489307-1-1.html)里介绍的挺详细
 
 6. 将护照、照片、DS160 确认页、缴费收据送到中信银行营业厅。
 
