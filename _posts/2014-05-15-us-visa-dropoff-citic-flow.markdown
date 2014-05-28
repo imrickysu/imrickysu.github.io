@@ -37,4 +37,6 @@ categories: Travel
     
     * [查询护照状态](http://www.ustraveldocs.com/cn_zh/cn-main-contactus.asp#查询护照状态) 填入护照号码可以获知护照是在送到领馆途中，在使馆中，还是已经发回
 
+    * [电话咨询](http://www.ustraveldocs.com/cn_zh/cn-main-contactus.asp#联系信息) 如果出现签证异常状态，可以通过链接中的电话号码致电工作人员查询签证状态以及进一步解释。
+
 8. 到指定的中信银行取护照
