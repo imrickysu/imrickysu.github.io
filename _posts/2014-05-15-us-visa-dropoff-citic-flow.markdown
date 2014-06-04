@@ -29,5 +29,14 @@ categories: Travel
 
     缴费后，网站会显示出confirmation letter。如果符合免面试条件，带上confirmation letter里要求的所有资料，送到中信银行，送完资料后就可以等待短信了。
 
-7. [查询签证状态](https://ceac.state.gov/CEACStatTracker/Status.aspx)
-8. 到中信银行取护照
+7. 查询签证状态
+
+    [USTraveldocs.com](http://www.ustraveldocs.com/cn_zh/cn-main-contactus.asp)上列出了两种查询方式，分别是
+    
+    * [查询签证状态](https://ceac.state.gov/CEACStatTracker/Status.aspx) 通过填入DS160 确认号码来查询签证状态
+    
+    * [查询护照状态](http://www.ustraveldocs.com/cn_zh/cn-main-contactus.asp#查询护照状态) 填入护照号码可以获知护照是在送到领馆途中，在使馆中，还是已经发回
+
+    * [电话咨询](http://www.ustraveldocs.com/cn_zh/cn-main-contactus.asp#联系信息) 如果出现签证异常状态，可以通过链接中的电话号码致电工作人员查询签证状态以及进一步解释。
+
+8. 到指定的中信银行取护照
