@@ -38,7 +38,7 @@ categories: Misc
 
 [Workrave](http://www.workrave.org/) - 提醒工作一段时间后要休息的工具。还会指导做一些放松小运动。
 
-[Tunnelier](http://www.bitvise.com/tunnelier) - SSH &amp; SFTP工具。登陆iphone/ipad或翻|墙用。
+[Tunnelier](http://www.bitvise.com/tunnelier) - SSH &SFTP工具。登陆iphone/ipad或翻|墙用。
 
 [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板增强工具。写信时常用的话全在里面。不用老写Best regards了。
 
