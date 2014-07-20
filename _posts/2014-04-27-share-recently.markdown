@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "最近想分享的一些东西"
+title:  "Markdown and Share Friday"
 date:   2014-04-27 22:13:50
 categories: Tools
 ---
