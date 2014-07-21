@@ -20,7 +20,7 @@ categories: Reviews
 - Swarm里没有原本4sq的推荐Nearby功能，没有了Todo list功能。这样就不能用它来找附近推荐的餐馆和好玩的地方了。这可能是不删除4sq的一个原因。在上海，我基本不太用4sq的推荐功能，基本用点评网，不过我建立过一些List，来帮助和指引外国游客，告诉他们上海有哪些好玩的地方。同样如果我在外地或者外国，我是会看4sq里推荐的Nearby和List的。所以Swarm更希望专注在社交，而不是推荐餐馆和旅游导览。专注，我觉得这也算是一个好处吧。4sq的推荐也没有做的不好，不过可以留给TripAdviser做。
 - 估计也是由于更专注的原因，Badge系统也没有了。有朋友，不需要什么Badge。
 
-<center>![](/images/20140721_swarm.png "Swarm App Example")</center>
+![](/images/20140721_swarm.png "Swarm App Example")
 
 ### 关于转换产品的用户体验 ###
 
