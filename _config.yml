@@ -1,7 +1,7 @@
 # Site settings
 title: Play Mooore
 email: i@rickysu.com
-description: "Life is short, Play more. 借用广告语，但的确表达出了我的人生观。"
+description: "借用XBOX广告语: Life is short, Play more. "
 baseurl: ""
 url: "http://imrickysu.github.io"
 
@@ -10,7 +10,7 @@ disqus_shortname: rickysu-jekyll # disqus comment thread for post header options
 google_analytics_id: UA-51284079-1 # set tracking, UA-XXXX-Y.
 
 links:
-  - name:         About
+  - name:         关于我
     url:          /about
   - name:         Feed
     url:          /feed.xml
