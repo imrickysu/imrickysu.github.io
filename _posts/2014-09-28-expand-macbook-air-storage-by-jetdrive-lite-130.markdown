@@ -42,7 +42,7 @@ Transcend专为Mac Book准备的存储扩展方案-[JetDrive Lite](http://www.tr
 
 ![](http://www.transcend-info.com/products/images/Modelpic/624/JD-500_Spec.jpg)
 
-不过这是后来了解到的，我在了解刀JetDrive Lite的时候就迫不及待下手了。米袋充足的朋友不妨选择JetDrive，毕竟可靠性高很多很多，传输速度也高很多很多 (标称读570MB/s, 写460MB/s)
+不过这是后来了解到的，我在了解到JetDrive Lite的时候就迫不及待下手了。米袋充足的朋友不妨选择JetDrive，毕竟可靠性高很多很多，传输速度也高很多很多 (标称读570MB/s, 写460MB/s)
 
 
 ## 使用
