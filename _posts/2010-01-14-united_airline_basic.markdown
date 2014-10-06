@@ -10,3 +10,9 @@ categories: Travel
 3. [行李托运](http://www.cn.united.com/core/chinese/SI/baggage/checkedbaggage/other_checked.html)：亚洲到美国，经济舱可以免费带2件行李，每件行李23KG，行李长宽高总和不超过158厘米。超大或超重的费用在[这里](http://www.cn.united.com/core/chinese/SI/baggage/oversized/other_oversized.html)。
 
 其实不常出差，不知道积分积到哪家星空的航空公司比较合算
+
+---
+Oct.6, 2014 更新
+
+- 美联航的行李托运在几年前已经改成免费只能托运一只23KG的箱子了。
+- 星空联盟积分，曾经公认比较划算的是爱琴海航空。最近爱琴海也更新了积分规则，要了解详情还是去航空公司网站吧。另外，在[飞客茶馆](www.flyertea.com)可以学到很多航空、酒店积分知识。
