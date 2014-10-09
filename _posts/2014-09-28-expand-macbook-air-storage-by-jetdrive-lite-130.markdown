@@ -15,7 +15,7 @@ categories: Misc
 ## 选择
 
 ### Nifty
-![Nifty](http://store.storeimages.cdn-apple.com/7900/as-images.apple.com/is/image/AppleInc/aos/published/images/H/F1/HF156/HF156?wid=400&hei=400&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1400778476722)
+![Nifty](/images/20140928_nifty.jpg)
 
 这是曾经Kickstarter上的当红项目。做一个转接套，套子里可以塞MicroSD，套子不象普通SD那么大，专为Air量身定做，短1厘米左右，放在SD卡槽内不会有露出来的部分，而且颜色也做成Air的金属色。
 
