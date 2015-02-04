@@ -17,6 +17,9 @@ links:
 #  - name:         Blog
 #    url:          http://chloerei.com
 #    external:     true
+  - name:         Twitter
+    url:          http://twitter.com/rickysu
+    external:     true
   - name:         Email
     url:          mailto:i@rickysu.com
     external:     true
