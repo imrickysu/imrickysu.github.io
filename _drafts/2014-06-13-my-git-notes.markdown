@@ -13,21 +13,39 @@ categories: App
 ##Git结构
 
 ##Git基本用法
-### git clone
+### 从远程全新下载Repo
+git clone
 
-### git init
+### 本地新建Repo
+git init
 
-### git add
+### 添加监视文件
+git add
 
-### git commit
+### 确认添加版本
+git commit
 
-### git branch
+### 切换版本
+git branch
 
-### git pull
+### 从远程下载更新
+git pull
 
-### git fetch --all
+git fetch --all
 
-### git push
+### 将更新推送到远程
+git push
+
+### 配置参数
+列出现在的全局参数 `git config -global -l`
+
+设置名字 `git config --global user.name <username>`
+
+设置Email `git config --global user.email <email>`
+
+设置Proxy `git config --global http.proxy <http_proxy>:<port>`
+
+取消某个参数 `git config --global --unset <param name>`
 
 ##工具
 ### SourceTree
