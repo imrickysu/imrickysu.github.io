@@ -2,7 +2,7 @@
 layout: post
 title:  "台湾印象"
 date:   2013-03-24 22:13:50
-categories: Travel
+categories: 旅行
 ---
 
 

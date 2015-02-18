@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "美国小记：美国美食（一）"
-categories: Travel
+categories: 旅行
 ---
 说道美国的食物，相信大家想到的都是这几样：匹萨，汉堡，薯条。当KFC进入中国已近二十个年头，街上随处可见的KFC，麦当劳，Burge King, Pizza Hut 和 Papa Johns 让我们感到对这些食物没有一点神秘感和向往。我当时就是持着这种态度来到了美国，却没想到不爱吃KFC的我，最后却像是小老鼠掉进了大米缸，享受着美国的美食。
 

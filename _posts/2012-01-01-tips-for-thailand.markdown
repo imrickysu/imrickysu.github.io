@@ -2,7 +2,7 @@
 layout: post
 title:  "泰国旅行小贴士"
 date:   2012-01-01 20:13:50
-categories: Travel
+categories: 旅行
 ---
 泰国游归来。不唠叨行程了，留几笔小贴士，哪位朋友要去的话或许可以用上。
 

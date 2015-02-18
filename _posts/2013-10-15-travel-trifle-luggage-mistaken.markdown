@@ -2,7 +2,7 @@
 layout: post
 title:  "旅行小事之被拿错行李"
 date:   2013-10-15 22:13:50
-categories: Travel
+categories: 旅行
 ---
 
 ### 前记 ###

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "纽约小记：百老汇"
-categories: Travel
+categories: 旅行
 
 ---
 ![](/images/broadway-header.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "访问旧金山TechShop"
-categories: Misc
+categories: 旅行
 ---
 
 ### 开头 ###

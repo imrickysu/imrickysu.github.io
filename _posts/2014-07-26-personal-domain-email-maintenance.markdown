@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "记一件很蠢的事（我和Google）"
-categories: Misc
+title: "用QQMail和Google托管个人域名邮箱"
+categories: 折腾
 ---
 突然意识到我收不到发到i@rickysu.com的邮件了。
 

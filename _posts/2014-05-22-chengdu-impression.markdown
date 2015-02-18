@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "成都印象2014"
-date:   2014-05-22 23:13:50
-categories: Travel
+categories: 旅行
 ---
 
 ##成都机场

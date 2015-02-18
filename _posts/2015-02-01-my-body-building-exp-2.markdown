@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "一个瘦子的增肌历程(2)"
-date:   2015-02-01 19:13:50
 categories: Fitness
 ---
 ## 前情提要 ##

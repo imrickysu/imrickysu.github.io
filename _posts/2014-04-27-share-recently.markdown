@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Markdown and Share Friday"
-date:   2014-04-27 22:13:50
-categories: Tools
+categories: 折腾
 ---
 
 

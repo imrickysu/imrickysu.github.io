@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple TV 2
-categories: Tech
+categories: 折腾
 
 ---
 12/21/2012

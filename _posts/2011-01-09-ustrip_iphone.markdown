@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "美国小记：20大iPhone常用程序"
-categories: Travel
+categories: 旅行
 ---
 ![](/images/iphone_icons.png "iphone_icons")
 

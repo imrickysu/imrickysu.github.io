@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "自学游泳小有成就"
-categories: Life
+categories: 经验
 
 ---
 最近在游泳。感觉终于入了门，颇有小心得。分享一下感受。

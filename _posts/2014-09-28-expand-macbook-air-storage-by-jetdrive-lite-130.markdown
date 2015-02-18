@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "扩展Mac Book Air的存储"
-categories: Misc
+categories: 折腾
 
 ---
 

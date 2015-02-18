@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "美联航之壹贰叁"
-categories: Travel
+categories: 旅行
 ---
 1. [美联航客服联系方式](http://www.cn.united.com/local/chinese/customerservice/index.html)
 

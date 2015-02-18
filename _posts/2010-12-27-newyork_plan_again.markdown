@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "纽约小记：如果重来一次"
-categories: Travel
+categories: 旅行
 ---
 ### 机票
 

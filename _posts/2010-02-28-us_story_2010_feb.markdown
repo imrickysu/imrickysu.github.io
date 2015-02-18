@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "在美国的那些事"
-categories: Travel
+title: "2010在美国碰到的那些事"
+categories: 旅行
 ---
 ### 囧事
 海关叔叔问我有没有带任何食物进关，我说带了三包sugar。他说美国也有sugar你为什么要带？我说那是给同事们做点心吃的小礼物。他说哦那叫Candy。

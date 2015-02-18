@@ -2,7 +2,7 @@
 layout: post
 title:  "一个瘦子的增肌历程"
 date:   2013-04-07 22:13:50
-categories: Fitness
+categories: 经验
 ---
 ## 序
 这篇文章是看了[《一个胖子的减肥计划》](http://www.cnsjw.cn/2013/04/lose-weight-plan/) 后写的。我相信那篇文章的受众比较多。平时苦于自己属于另一个抱怨一下自己吃不胖还被人唏嘘说炫耀的群体，当终于找到一点经验之后当然要不吝分享。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "北京名胜两日游"
-categories: Travel
+categories: 旅行
 ---
 ## 2/18
 
