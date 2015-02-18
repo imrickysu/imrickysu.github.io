@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown and Share Friday"
+title:  "Share Friday: Markdown FreeMind Everything 及其他"
 categories: 折腾
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Move to Jekyll"
+title:  "从Wordpress转移到Jekyll"
 categories: 折腾
 ---
 
