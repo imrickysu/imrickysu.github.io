@@ -4,6 +4,7 @@ email: i@rickysu.com
 description: "Life is short, Play more. "
 baseurl: ""
 url: "http://imrickysu.github.io"
+exclude: ['vendor']
 
 signoff:          Ricky # Your name.
 disqus_shortname: rickysu-jekyll # disqus comment thread for post header options. ( leave blank if unwanted. )
