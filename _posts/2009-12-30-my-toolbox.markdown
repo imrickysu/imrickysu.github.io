@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "我的工具箱"
+title: "我的工具箱 2009"
 categories: Misc
 
 ---
-整理一下常用的免费工具：
+整理在Windows平台常用的免费工具：
 
 [Crimson Editor](http://www.crimsoneditor.com/) - 除了没有文件比较功能外堪比Ultraedit的免费工具，虽然2004年已停止开发，但功能依然强大，读取几百兆的大文件也不会死机。
 
