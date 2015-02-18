@@ -24,4 +24,4 @@ categories: Fitness
 
 
 ## 相关链接 ##
-[一个瘦子的增肌历程(1)]({ /post_url 2013-04-07-my-body-building-exp %})
+[一个瘦子的增肌历程(1)]({% post_url 2013-04-07-my-body-building-exp %})
