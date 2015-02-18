@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "一个瘦子的增肌历程"
-date:   2013-04-07 22:13:50
 categories: 经验
 ---
 ## 序
