@@ -1,5 +1,5 @@
 # Site settings
-title: PLAY MOOORE
+title: 不够折腾
 email: i@rickysu.com
 description: "Life is short, Play more. "
 baseurl: ""
@@ -11,23 +11,20 @@ disqus_shortname: rickysu-jekyll # disqus comment thread for post header options
 google_analytics_id: UA-51284079-1 # set tracking, UA-XXXX-Y.
 
 links:
-  - name:         关于我
-    url:          /about
+
+  - name:         首页
+    url:          http://blog.rickysu.com
+    external:     true
   - name:         Feed
     url:          /feed.xml
-#  - name:         Blog
-#    url:          http://chloerei.com
-#    external:     true
   - name:         Twitter
     url:          http://twitter.com/rickysu
     external:     true
   - name:         Email
     url:          mailto:i@rickysu.com
     external:     true
-#  - name:         GitHub
-#    url:          http://github.com/chloerei/scribble
-#    external:     true
-
+  - name:         关于我
+    url:          /about
 
 
 
