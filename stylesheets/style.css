@@ -152,7 +152,8 @@ footer {
   border-width: 0;
   border-style: solid;
   padding: 30px 60px;
-  margin: auto; }
+/*  margin: auto; */
+}
 
 a, .as-link {
   text-decoration: none;
@@ -356,4 +357,12 @@ time {
   font-size: 20px;
   margin-top: 10px;
   margin-bottom: 6px;
+}
+
+/* meta page */
+#meta {
+  border-width: 0;
+  border-style: solid;
+  padding: 10px 60px 30px 60px;
+  border-top: 1px solid #efefef;
 }
