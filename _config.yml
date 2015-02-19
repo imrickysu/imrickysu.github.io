@@ -36,4 +36,4 @@ links:
 markdown: kramdown
 kramdown:
   input: GFM
-permalink: pretty
+permalink: /:year/:month/:title
