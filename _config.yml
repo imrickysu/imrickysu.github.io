@@ -15,12 +15,12 @@ links:
   - name:         首页
     url:          http://blog.rickysu.com
     external:     true
-  - name:         Feed
+  - name:         RSS订阅
     url:          /feed.xml
-  - name:         Twitter
+  - name:         TWITTER
     url:          http://twitter.com/rickysu
     external:     true
-  - name:         Email
+  - name:         E-MAIL
     url:          mailto:i@rickysu.com
     external:     true
   - name:         关于我
