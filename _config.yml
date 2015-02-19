@@ -7,7 +7,6 @@ url: "http://imrickysu.github.io"
 exclude: ['vendor']
 
 signoff:          Ricky # Your name.
-disqus_shortname: rickysu-jekyll # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: UA-51284079-1 # set tracking, UA-XXXX-Y.
 
 links:
