@@ -2,6 +2,9 @@
 layout: post
 title:  "成都印象2014"
 categories: 旅行
+tags:
+- 成都
+- 旅行印象
 ---
 
 ##成都机场

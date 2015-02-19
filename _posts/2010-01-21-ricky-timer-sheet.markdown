@@ -2,7 +2,8 @@
 layout: post
 title: "自制记录时间 Timer Sheet"
 categories: 折腾
-
+tags:
+- Gadgets
 ---
 感觉每天都在忙，忙到头却不知道自己在忙什么。我猜不少人会有跟我一样的感觉。
 

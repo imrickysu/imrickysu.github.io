@@ -2,7 +2,9 @@
 layout: post
 title: Apple TV 2
 categories: 折腾
-
+tags:
+- Gadgets
+- Apple TV
 ---
 12/21/2012
 

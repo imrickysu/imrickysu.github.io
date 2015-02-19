@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "台湾印象"
-date:   2013-03-24 22:13:50
 categories: 旅行
+tags:
+- 台湾
+- 旅行印象
 ---
 
 

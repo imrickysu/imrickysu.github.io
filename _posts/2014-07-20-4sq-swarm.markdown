@@ -2,6 +2,8 @@
 layout: post
 title: "4sq和Swarm"
 categories: 评论
+tags:
+- App
 ---
 今天，Foursquare开始逼迫用户下载新工具Swarm，在4sq里点签到按钮会弹出下载Swarm的页面，告诉大家签到功能被移到了新工具Swarm，要签到就必须下载新工具。
 

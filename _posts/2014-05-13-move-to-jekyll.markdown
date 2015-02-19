@@ -2,6 +2,9 @@
 layout: post
 title:  "从Wordpress转移到Jekyll"
 categories: 折腾
+tags:
+- Web
+- Jekyll
 ---
 
 从Wordpress转到了[Jekyll]。

@@ -2,6 +2,10 @@
 layout: post
 title: "访问旧金山TechShop"
 categories: 旅行
+tags:
+- 游记
+- 旧金山
+- TechShop
 ---
 
 ### 开头 ###

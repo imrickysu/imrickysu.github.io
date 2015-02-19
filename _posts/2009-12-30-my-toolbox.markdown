@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "我的工具箱 2009"
-categories: Misc
+categories: 总结
+tags:
+- App
 
 ---
 整理在Windows平台常用的免费工具：

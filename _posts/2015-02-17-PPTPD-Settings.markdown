@@ -2,6 +2,8 @@
 layout: post
 title:  "换服务器IP地址导致PPTPD工作不正常的解决记录"
 categories: 折腾
+tags:
+- Web
 ---
 
 最早用的[Diahosting的一键安装包](http://blog.diahosting.com/linux-tutorial/pptpd/)，挺方便的，就没在意到底怎么设置的。

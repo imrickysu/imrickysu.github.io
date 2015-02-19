@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "美国小记：20大iPhone常用程序"
+title: "美国旅行常用iPhone程序(2011)"
 categories: 旅行
+tags:
+- App
+- 旅行经验
 ---
 ![](/images/iphone_icons.png "iphone_icons")
 

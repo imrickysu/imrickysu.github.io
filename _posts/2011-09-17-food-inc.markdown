@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Food Inc 食品公司
-categories: Movie
-
+categories: 评论
+tags:
+- 影评
 ---
 《[食品公司](http://www.foodincmovie.com/)》是美国2008年上映的纪录片。[豆瓣](http://movie.douban.com/subject/3564499/)评分8.6。[IMDB](http://www.imdb.com/title/tt1286537/)评分7.9。[Amazon](http://www.amazon.com/Food-Inc-Eric-Schlosser/dp/B0027BOL4G/ref=sr_1_1?ie=UTF8&amp;qid=1316188712&amp;sr=8-1)评分4星半。2009年继而发布了后续的[纸质书](http://www.amazon.com/Food-Inc-Participant-Industrial-Poorer-/dp/1586486942/ref=sr_1_5?ie=UTF8&amp;qid=1316188712&amp;sr=8-5)，名为 _Food Inc.: A Participant Guide: How Industrial Food is Making Us Sicker, Fatter, and Poorer-And What You Can Do About It._ 电影和书的投票书都不算最多，但是分数都挺高。
 

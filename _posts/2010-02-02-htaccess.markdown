@@ -2,6 +2,8 @@
 layout: post
 title: "话说.htaccess转移地址"
 categories: 折腾
+tags:
+- Web
 ---
 ![](/images/404-vs-301-redirect.jpg "404-vs-301-redirect")
 

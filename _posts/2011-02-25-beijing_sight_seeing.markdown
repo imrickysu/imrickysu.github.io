@@ -2,6 +2,9 @@
 layout: post
 title: "北京名胜两日游"
 categories: 旅行
+tags:
+- 北京
+- 游记
 ---
 ## 2/18
 
