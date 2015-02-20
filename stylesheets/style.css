@@ -20,8 +20,11 @@ body {
     background-image: none; }
 
 #title {
-  font-size: 40px;
+  font-size: 20px;
   padding-right: 60px;
+}
+#title a {
+  color: black;
 }
 
 #slogan {
@@ -81,10 +84,9 @@ header {
   text-align: center;
   width: 100%;
   max-width: 768px;
-  margin: 40px auto 20px;
-}
-#header-container {
-  padding-left: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
 }
 
 footer {
@@ -101,7 +103,7 @@ footer {
   width: 100%;
   max-width: 768px;
   background: #fff;
-  margin: 40px auto 20px;
+  margin: 10px auto 20px;
   border-radius: 7px;
   border: 1px solid #eee;
   position: relative;
@@ -270,7 +272,9 @@ section.post {
   section.post h1 {
     text-align: center;
     line-height: 1.5em;
-    margin-bottom: 60px; }
+    margin-bottom: 60px;
+    font-size: 50px;
+  }
   section.post img {
     border-radius: 3px; }
   section.post em strong {
