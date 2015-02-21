@@ -367,3 +367,16 @@ time {
   padding: 10px 60px 30px 60px;
   border-top: 1px solid #efefef;
 }
+
+code {
+padding: 1px 6px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+font-family: monospace;
+font-size: 14px;
+background-color: #F9F9F9;
+border: 1px solid #d5d5e9;
+overflow: scroll;
+margin: 1px 3px;
+}
