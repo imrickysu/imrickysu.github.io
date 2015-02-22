@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美国小记：美国美食（一）"
+title: "美国小记：美国美食"
 categories: 旅行
 tags:
 - 美国
