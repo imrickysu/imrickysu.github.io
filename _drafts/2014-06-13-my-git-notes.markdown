@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "My Git Notes"
-date:   2014-06-13 10:13:50
-categories: App
+categories: 总结
 ---
 这两周在和客户一起写一个SDK下的C程序。我们一起用Git协作得很欢乐。我一直都是Git小白，从前都是一个人用Git，用来记录版本更新，从来没有和别人协作过，这次算是体验到了Merge和Branch的乐趣。
 
