@@ -31,10 +31,14 @@ tags:
 
 Jekyll-Hook 的调试比较容易，因为它打印出了所有关键信息，目录配置不正确、权限有问题之类的小错误很容易被发现。
 
-唯一碰到一点小问题的是Nginx的配置。新装的Nginx照着default依样画葫芦来配置server，总是出莫名的404或者500错误。甚至打开[debug](http://nginx.org/en/docs/debugging_log.html)开关查看error report也只是看到不停地找不到文件，虽然文件就在那里。Nginx的[Pitfalls](http://wiki.nginx.org/Pitfalls)指导让我灵光一现：不要从复杂的文件开始改，从头做一个干净的，我自己理解所有内容的配置文件会更容易查错。结果新的配置文件中只加上`server_name`和`root`两个参数，网站就工作了。最后完整起见加上了`error_page`指令完成404重定向。
+Nginx的配置碰到一点小问题。新装的Nginx照着default依样画葫芦来配置server，总是出莫名的404或者500错误。甚至打开[debug](http://nginx.org/en/docs/debugging_log.html)开关查看error report也只是看到不停地找不到文件，虽然文件就在那里。Nginx的[Pitfalls](http://wiki.nginx.org/Pitfalls)指导让我灵光一现：不要从复杂的文件开始改，从头做一个干净的，我自己理解所有内容的配置文件会更容易查错。结果新的配置文件中只加上`server_name`和`root`两个参数，网站就工作了。最后完整起见加上了`error_page`指令完成404重定向。
+
+环境导致的问题：由于国内通往Github的链路不是这么通畅，有时进行`git pull`或`git clone`的时候失败。于是就希望能对github的操作如果遇到失败，能重试几次。尝试在`build.sh`中加入重试机制。详情请看我的 [Jekyll-Hook Fork](https://github.com/imrickysu/jekyll-hook)
+
 
 ### 域名备案 ###
 还没完成
+
 
 ## 总结 ##
 - Github 很开放，想得很周到。正是有了Web Hook，这样的Solution才能实现。
