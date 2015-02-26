@@ -56,18 +56,21 @@ tags:
 ## 关于包管理和Ruby版本管理 ##
 Ruby世界中主要使用RVM和Bundler来做包管理。下面总结一下RVM和Bundler的优势和劣势。
 
-RVM:
+RVM
+
 - 可以方便地在系统中安装和选择使用多个版本的Ruby
 - 每个Ruby版本又可以带多个专用的Gem环境互不影响
 - 每次使用和切换都要用命令
 - 在每个隔离的区域中仍然可以使用Bundler安装Gem
 
-Bundle:
+Bundle
+
 - 为一个版本的Ruby管理Gem，可以自动处理dependency
 - 可以将Gem安装到系统目录(默认)或者本地工程目录(--path 选项)
 - 通过Bundler启动没有安装在系统目录的Ruby工具(比如Rails, Jekyll等可以不安装在系统目录)，使用`bundle exec <app name>`启动
 
-我的喜好：
+我的喜好
+
 - Rails程序使用RVM。因为Rails开发的时候需要不断运行命令行，比如`rails g model`等，每次在rails命令前加上`bundle exec`太麻烦了，还不如一次性指定好环境。
 - 手工写的Ruby程序，如果系统版本的Ruby可以使用，就只用Bundler将Gem装在工程目录下。启动程序不需要特殊操作。工程下的Gem也不会污染系统目录。
 
