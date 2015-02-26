@@ -54,10 +54,26 @@ tags:
 - [Twitter Gem](https://github.com/sferik/twitter): 把[Twitter的API](https://dev.twitter.com/overview/api)包装成Ruby类。不过Twitter支持的方法实在太多了，看文档对我来说都有点累，不如Tumblr清晰。
 
 ## 关于包管理和Ruby版本管理 ##
-很多网上的教程都推荐使用[RVM](http://rvm.io/)来做Ruby版本管理工具，在电脑上安装多个版本的Ruby和多个版本的Gem时，用RVM来将各个环境分隔开来互不影响。RVM是好东西，我一开始试用Ruby on Rails的时候就已经开始用了。曾经出现过调试某个Gem的时候怎么也和预期对不上，然后在RVM中装上一个旧版本的Ruby，在这个Ruby的环境中再装这个Gem，一切就都好起来了。所以对真正的开发人员要做各种版本的测试的情况下RVM一定是有用又好用的。
+Ruby世界中主要使用RVM和Bundler来做包管理。下面总结一下RVM和Bundler的优势和劣势。
 
-在我的简单工具的环境下，我就不太想用RVM了，因为每次用RVM，都需要手工选择一个Ruby版本和它对应的Gem库版本，颇为麻烦。在我依赖的Gem不是很多很复杂的情况下，我就只使用Mac OSX自带的Ruby版本，然后用[Bundler](http://bundler.io/)来管理Gem。Bundler是Ruby Gem的包管理工具。Gem是Ruby的用户封装库。Bundler就帮助下载、安装、管理一个工程所要使用的Gem。把工程所需要的Gem写在`Gemfile`文件中，然后在这个目录中执行`bundler install`就会把所需要的Gem安装到系统目录中，运行`bundler install --path vendor/bundler`就可以把Gem安装到当前目录的vendor/bundler子目录中。
+RVM:
+- 可以方便地在系统中安装和选择使用多个版本的Ruby
+- 每个Ruby版本又可以带多个专用的Gem环境互不影响
+- 每次使用和切换都要用命令
+- 在每个隔离的区域中仍然可以使用Bundler安装Gem
 
-我把所有的Gem都装在工程目录下，而不是系统目录中，这样每个工程的Gem都不会互相影响，可以做到有的工程用这个Gem的高版本，有的工程用同一个Gem的低版本。当删除一个工程的时候，只需要把整个工程目录删除就可以了，系统目录不必做清理。
+Bundle:
+- 为一个版本的Ruby管理Gem，可以自动处理dependency
+- 可以将Gem安装到系统目录(默认)或者本地工程目录(--path 选项)
+- 通过Bundler启动没有安装在系统目录的Ruby工具(比如Rails, Jekyll等可以不安装在系统目录)，使用`bundle exec <app name>`启动
+
+我的喜好：
+- Rails程序使用RVM。因为Rails开发的时候需要不断运行命令行，比如`rails g model`等，每次在rails命令前加上`bundle exec`太麻烦了，还不如一次性指定好环境。
+- 手工写的Ruby程序，如果系统版本的Ruby可以使用，就只用Bundler将Gem装在工程目录下。启动程序不需要特殊操作。工程下的Gem也不会污染系统目录。
+
+
+
+
+
 
 P.S. [《内核恐慌》Podcast 第7集](http://ipn.li/kernelpanic/7/)讲了软件包管理，对大多数开发环境的包管理都吐槽了一遍，有兴趣的可以去听。
