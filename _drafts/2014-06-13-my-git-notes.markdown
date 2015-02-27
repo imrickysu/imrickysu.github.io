@@ -7,7 +7,7 @@ tags:
 ---
 现在虽然有很多好的git书籍和资料，但是对于没接触过版本管理的小白用户来说，git还是比较难以理解。我想尝试一下用我的大白话，用问答的形式，来向小白用户(我会多照顾一些平时不使用版本管理工具的Vivado/ISE/SDK的用户)解释一下什么是git，怎么在日常工作中使用git。
 
-
+## 问答 ##
 ### 什么是git？ ###
 git是一个版本管理工具。
 
@@ -45,40 +45,29 @@ git本身是一个提供源代码的命令行工具，用户可以从源代码�
 - 让git使用proxy
 - 设定自己的名字，让别人知道是谁提交的代码
 
+当清楚了我们需要用git来做什么之后，再去了解怎样用git来完成这些任务，就会觉得思路清晰很多。
+
 ### Vivado工程怎么用git管理 ###
 
 ## 具体操作 ##
 
-### 本地新建Repo
-git init
+### 基本操作 ###
+[Git Document 第二章 - Basics](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 有详细的操作步骤解说一些基本命令。
 
-### 从远程全新下载Repo ###
-git clone
+- [2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) 通过 `git init` 和 `git clone` 获得一个git repo
+- [2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) 记录git repo的改变: `git add` `git diff` `git status` `git rm` `git mv` `git commit` `.gitignore` 
+- [2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) 查看版本历史 `git log`的各种用法
+- [2.4](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) 撤销修改 `git commit --amend` `git checkout` `git reset`
+- [2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes) 远程服务器 `git remote` `git fetch` `git pull`
+- [2.6](http://git-scm.com/book/en/v2/Git-Basics-Tagging) 打标签 `git tag`
 
-### 添加监视文件 ###
-git add
-
-### 确认添加版本 ###
-git commit
-
-### 切换版本 ###
-git branch
-
-### 从远程下载更新 ###
-git pull
-
-git fetch --all
-
-### 将更新推送到远程 ###
-git push origin master
+有了图形界面工具 SourceTree 之后，以上的大多数本来需要命令行完成的工作都可以在图形界面点击按钮完成
 
 ### 配置参数 ###
-列出现在的全局参数 `git config -global -l`
+以下是我常用的配置参数的命令
 
-设置名字 `git config --global user.name <username>`
-
-设置Email `git config --global user.email <email>`
-
-设置Proxy `git config --global http.proxy <http_proxy>:<port>`
-
-取消某个参数 `git config --global --unset <param name>`
+- 列出现在的全局参数 `git config -global -l`
+- 设置名字 `git config --global user.name <username>`
+- 设置Email `git config --global user.email <email>`
+- 设置Proxy `git config --global http.proxy <http_proxy>:<port>`
+- 取消某个参数 `git config --global --unset <param name>`
