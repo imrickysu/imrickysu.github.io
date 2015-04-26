@@ -16,7 +16,7 @@ tags:
   
     方形，51mm x 51mm。白底，正面。到照相馆说美国签证照，或者在地铁站的Photo-Me自助照相都可以。由于签证要求六个月内的照片，一定不可以用以前申请递交过的照片。
 
-2. 查看[申请美国签证|申请免面谈说明](http://www.ustraveldocs.com/cn_zh/cn-niv-visarenew.asp)，确定自己符合免面试要求。
+2. 查看[申请美国签证-申请免面谈说明](http://www.ustraveldocs.com/cn_zh/cn-niv-visarenew.asp)，确定自己符合免面试要求。
 3. 填写[DS160](https://ceac.state.gov/genniv)
 
     注意如果符合免面试的条件的话，需要把 Location 选择为 China, Guangzhou，才能使用中信银行代递交服务。
