@@ -294,6 +294,9 @@ section.post {
     transition: all, 0.3s; }
     section.post blockquote:hover {
       color: #454545; }
+  section.post li {
+    margin: 15px 0;
+  }    
 
 pre {
   word-wrap: break-word;
