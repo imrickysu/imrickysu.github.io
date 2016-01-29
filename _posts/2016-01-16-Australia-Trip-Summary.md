@@ -59,10 +59,10 @@ Pie face是一家连锁店，各种卷啊派啊口味都不错，可以尝尝。
 - 澳洲盛产保健品，路边各种药店。Chemist Warehouse (Discounted Chemist) 基本是最全最便宜的。不过采购这种活儿，我一般都是留到最后一站的。
 
 ## 圣灵群岛 ##
-圣灵群岛英文名Whitsunday Islands。最有名的是白天堂沙滩和心形礁。
+圣灵群岛英文名Whitsunday Islands。最有名的是白天堂沙滩([TripAdvisior](https://cn.tripadvisor.com/Attraction_Review-g255091-d2103695-Reviews-Whitehaven_Beach-Whitsunday_Island_Whitsunday_Islands_Queensland.html))和心形礁([TripAdvisior](http://www.tripadvisor.com/Attraction_Review-g261596-d2103698-Reviews-Heart_Reef-Airlie_Beach_Queensland.html))。
 
 ### 地理和交通 ###
-圣灵群岛由很多个岛屿组成。离岛最近的港湾小镇叫Airlie Beach。一般背包客住在Airlie Beach，土豪住Hamilton岛和Daydream岛。Whitsunday岛是国家公园，不允许开发，只能坐船往返。
+圣灵群岛由很多个岛屿组成。离岛最近的港湾小镇叫 Airlie Beach。一般背包客住在 Airlie Beach，土豪住 Hamilton 岛 和Daydream 岛。Whitsunday 岛是国家公园，不允许开发，只能坐船往返。
 
 最近的机场叫Proserpine，代码PPP，开车到Airlie Beach一个小时。机场出来就有机场大巴接待柜台，可以预先订票也可以当场买票。机场大巴的司机还会一路讲解，17刀算很值的。全市的公交都由whitsunday transfer这家公司运营，除了机场大巴，还有1路公交车，从机场到Shute Harbor, 途径Airlie Beach的主要景点和酒店。
 
