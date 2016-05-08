@@ -9,6 +9,7 @@ tags:
 Workflow App 可以说是 iOS 里的 Automator。它能连接各个App的API，实现一系列比较复杂的动作。
 
 这个 App 在 AppStore 中国商店的价格是18元。这里有一些介绍文章
+
 - [PinApps: 扔掉难用的微信收藏，用Workflow自己弄](https://zhuanlan.zhihu.com/p/20589491)
 - [PinApps: 使用Workflow划词搜索提升手机操作效率](https://zhuanlan.zhihu.com/p/20472027?refer=pinapps)
 - [知乎: Workflow 有哪些有趣的或能提升生活效率的玩法？](https://www.zhihu.com/question/27029837/answer/71748121)
