@@ -8,6 +8,11 @@ tags:
 
 Workflow App 可以说是 iOS 里的 Automator。它能连接各个App的API，实现一系列比较复杂的动作。
 
+这个 App 在 AppStore 中国商店的价格是18元。这里有一些介绍文章
+- [PinApps: 扔掉难用的微信收藏，用Workflow自己弄](https://zhuanlan.zhihu.com/p/20589491)
+- [PinApps: 使用Workflow划词搜索提升手机操作效率](https://zhuanlan.zhihu.com/p/20472027?refer=pinapps)
+- [知乎: Workflow 有哪些有趣的或能提升生活效率的玩法？](https://www.zhihu.com/question/27029837/answer/71748121)
+
 ## 微信长文发送到 Evernote 和 Instapaper ##
 
 想买它是因为我想实现在微信里比较长的文章的时候，把它同时发送到 Instapaper 和 Evernote。因为Evernote阅读体验不佳，Instapaper阅读时心情比较好。有时候想搜资料全文搜索，Evernote又会比较方便一些。由于微信里不能直接进行 Evernote 和 Instapaper 的分享操作，要么把文章发送给 Evernote 的公众号，要么用 Safari 打开后分别发送到 Evernote 和Instapaper，都是比较麻烦的。
