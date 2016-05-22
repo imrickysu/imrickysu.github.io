@@ -307,7 +307,8 @@ pre {
   line-height: 1.2em;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  overflow: auto; }
 pre code {
   border: none;
   padding: 0;
