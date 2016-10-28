@@ -17,11 +17,13 @@ tags:
   - 静态网站->默认首页:index.html (否则显示you’re not the owner of this bucket)
   - 回源设置 ->添加规则: 镜像 imrickysu.github.io
 
-## 性能结果
+## 结果和性能
 
-多访问两次后，首页2秒加载完毕，但比较后结果让我跌眼镜：
+- CDN回源加载还是需要时间的。第一次成功访问时，只能看到bare html，多有的图片、CSS、JS几乎全都没有被加载。
+- 多访问两次后，首页2秒加载完毕，但这个速度并不让人满意，因为原始的blog.rickysu.com只需要561ms。
+- 等了十分钟后，再多刷新几次，blogcdn也能达到500ms的下载时间量级。将来可能需要更多的性能测试。
 
-即使load多次了，blogcdn.rickysu.com需要2.34s load完所有内容，而原始的blog.rickysu.com只需要561ms。
+总的来说，我以前认为github pages在中国的访问速度并不佳，可能是现在CDN服务器部署得多了，静态内容的访问速度还是可以的，以至于再使用本地CDN，效果也并不明显。
 
 ## 碰到过的问题
 
