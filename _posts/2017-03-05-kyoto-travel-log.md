@@ -5,7 +5,7 @@ categories: 旅行
 tags:
 - 旅行经验
 ---
-今年一月去了日本京都和大阪，记录一些信息义工朋友们参考。
+今年一月去了日本京都和大阪，记录一些信息义工朋友们参考。个人经验所限，没办法写得很完整，建议同时参考[穷游锦囊](http://guide.qyer.com/kyoto/)，以及XFun吃货俱乐部京都篇([iQiyi](http://www.iqiyi.com/v_19rr9wpnfo.html) [YouTube](https://www.youtube.com/watch?v=I5ARkiz9ml4&t=1s))。
 
 ## 签证
 
