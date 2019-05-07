@@ -15,7 +15,7 @@ tags:
 
 巴黎
 - 索镇公园在樱花树下野餐
-- LV 基金会博物馆
+- [LV 基金会博物馆](https://www.fondationlouisvuitton.fr/en.html): The Courtauld Collection, a vision for impressionism
 - 毕加索博物馆
 - 蒙马特高地
 - 晚上大皇宫看一个电影装置艺术
