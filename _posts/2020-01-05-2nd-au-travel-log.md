@@ -6,7 +6,7 @@ tags:
 - 旅行经验
 ---
 
-第一次的记录在这里 [http://blog.rickysu.com/2016/01/Australia-Trip-Summary]()
+第一次的记录在这里 [http://blog.rickysu.com/2016/01/Australia-Trip-Summary](http://blog.rickysu.com/2016/01/Australia-Trip-Summary)
 
 这次是带了父母去，目标是轻松休闲躲过上海的寒冬，所以十天主要就去了两个地方：[墨尔本](http://guide.qyer.com/melbourne/)和[悉尼](http://guide.qyer.com/sydney/)
 
@@ -16,7 +16,7 @@ tags:
 
 ### 签证
 
-澳大利亚签证申请全程电子化了，只需要在网站 [https://online.immi.gov.au/lusc/login]() 注册，上传所有需要的信息，付费提交后两三天就得到了电子签证。拿到的签证是一年多次往返，每次最长停留三个月。
+澳大利亚签证申请全程电子化了，只需要在网站 [https://online.immi.gov.au/lusc/login](https://online.immi.gov.au/lusc/login) 注册，上传所有需要的信息，付费提交后两三天就得到了电子签证。拿到的签证是一年多次往返，每次最长停留三个月。
 
 ### 机票和飞行
 
