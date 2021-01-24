@@ -42,11 +42,11 @@ tags:
 
 此时，原始的日记时间由Created属性标注，DayOne导入的日记时间由Date属性标注。首先将Date属性改名为dateOverride，然后新建一个属性，类型是Fomular，名字是date，公式为
 
-    ```jsx
-    if(empty(prop("dateOverride")), prop("Created"), prop("dateOverride"))
-    ```
+```jsx
+if(empty(prop("dateOverride")), prop("Created"), prop("dateOverride"))
+```
 
-    出处参考  [https://bitworking.org/news/2020/08/creating-a-date-column-in-notion-that-has-a-default/](https://bitworking.org/news/2020/08/creating-a-date-column-in-notion-that-has-a-default/)
+出处参考  [https://bitworking.org/news/2020/08/creating-a-date-column-in-notion-that-has-a-default/](https://bitworking.org/news/2020/08/creating-a-date-column-in-notion-that-has-a-default/)
 
 ### 曾经今日功能
 
