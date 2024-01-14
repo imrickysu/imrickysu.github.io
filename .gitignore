@@ -6,3 +6,4 @@ vendor/
 Gemfile.lock
 myblog.sublime-project
 myblog.sublime-workspace
+.DS_Store
