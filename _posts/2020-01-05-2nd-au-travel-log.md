@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "2019圣诞 二刷澳大利亚旅行小记"
+title: "2019.12 二刷澳大利亚旅行小记"
 categories: 旅行
 tags:
-- 旅行经验
+- 游记
 ---
 
 第一次的记录在这里 [http://blog.rickysu.com/2016/01/Australia-Trip-Summary](http://blog.rickysu.com/2016/01/Australia-Trip-Summary)
