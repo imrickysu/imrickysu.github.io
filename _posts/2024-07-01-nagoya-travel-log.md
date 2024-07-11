@@ -26,9 +26,6 @@ tags:
 - 很喜欢这家酒店 TIAD。一草一木，都是精心雕琢，可圈可点的地方太多了。
 - 因为汇率和退税的关系，大多数商品，日本能比国内便宜20%左右。消费感觉没有压力。
 
-![Nagoya Weather](/images/2024_nagoya/nagoya_weather.jpg)
-
-
 ## 简要概括我的行程
 - 周五晚上出发，住 Nagoya Station Marriott
 - 周六逛吃逛吃买买买，搬酒店
