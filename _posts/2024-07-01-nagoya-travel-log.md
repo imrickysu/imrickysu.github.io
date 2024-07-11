@@ -33,21 +33,23 @@ tags:
 - 周五晚上出发，住 Nagoya Station Marriott
 - 周六逛吃逛吃买买买，搬酒店
     - 逛高岛屋和名古屋站的商业
-    - [Coffee House Kako](https://maps.app.goo.gl/jZCXYrVc1cRmTi426)
-    - 米其林天妇罗店：[Tempura Azabu Yokota](https://maps.app.goo.gl/daZsqL6sEJQfQ44K9)
-    - 居酒屋：大江戸 - [🏠](https://maps.app.goo.gl/s3Xias52DZbqrdcL9) - [tabelog](https://tabelog.com/aichi/A2301/A230103/23007244/)
+    - 🍜 吐司咖啡早餐店：Coffee House Kako - [Google Map](https://maps.app.goo.gl/jZCXYrVc1cRmTi426)
+    - 🍜 米其林天妇罗店：Tempura Azabu Yokota - [Google Map](https://maps.app.goo.gl/daZsqL6sEJQfQ44K9)
+    - 🍜 居酒屋：大江戸 - [Google Map](https://maps.app.goo.gl/s3Xias52DZbqrdcL9) - [tabelog](https://tabelog.com/aichi/A2301/A230103/23007244/)
     - [TIAD](https://www.marriott.com/en-us/hotels/ngoak-tiad-autograph-collection/overview/) 酒店
 - 周日上午在酒店瑜伽拉伸，酒店附近逛吃，下午开车去犬山
-    - Shabushabu and Yakiniku - [🏠](https://maps.app.goo.gl/QHk7okSredYsUBt67) - [tabelog](https://tabelog.com/en/aichi/A2301/A230101/23082504/table/)
+    - 🍜 火锅烧肉店 Shabushabu and Yakiniku - [Google Map](https://maps.app.goo.gl/QHk7okSredYsUBt67) - [tabelog](https://tabelog.com/en/aichi/A2301/A230101/23082504/table/)
     - [犬山城下町 (Inuyama Jokamachi)](https://inuyamajo.jp/zh-hans/visit/openinghours-and-entrancefee/)
     - [犬山 Indigo](https://inuyama.hotelindigo.com)
     - 木曾川鹈饲 [这里是中文介绍](https://www.aichi-now.jp/cn/spots/detail/68/) ([这里是只有英语而且很慢的官网](https://kisogawa-ukai.jp/en/))
 - 周一继续在酒店瑜伽拉伸，逛吃逛吃买买买
-    - [加藤咖啡馆](https://maps.app.goo.gl/8raDngfFqLk6Ny1B8)
-    - 荣 (Sakae) [Chunichi Building](https://maps.app.goo.gl/KjzmE5QVkjWeSqQo6), [三越 MITSUKOSHI](https://maps.app.goo.gl/XcgmWjHop73f7nMg8), [Matsuzakaya](https://maps.app.goo.gl/h4MNmQyjqtJY1HoT8)
-    - [桑名蛤料理 貝新](https://maps.app.goo.gl/aTyMSEjJhzvAY3aJ7)
-- 周二上午逛吃, 下午回
-    - 中部电力塔附近：[Hario Cafe](https://maps.app.goo.gl/wt7Gq3NZiHrSFBeZ9), [SnowPeak](https://maps.app.goo.gl/Ytm9AZzZPeWNqfDf9), [Flower Noritake 则武](https://maps.app.goo.gl/caoWffJLWrAR3nmd9)
+    - 🍜 加藤咖啡馆 - [Google Map](https://maps.app.goo.gl/8raDngfFqLk6Ny1B8)
+    - 荣 (Sakae) 区域的商场： [Chunichi Building](https://maps.app.goo.gl/KjzmE5QVkjWeSqQo6), [三越 MITSUKOSHI](https://maps.app.goo.gl/XcgmWjHop73f7nMg8), [Matsuzakaya](https://maps.app.goo.gl/h4MNmQyjqtJY1HoT8)
+    - 🍜 桑名蛤料理 貝新 - [Google Map](https://maps.app.goo.gl/aTyMSEjJhzvAY3aJ7)
+- 周二上午在中部电力塔附近逛吃, 下午回
+    - 🍜 Hario Cafe - [Google Map](https://maps.app.goo.gl/wt7Gq3NZiHrSFBeZ9)
+    - SnowPeak - [Google Map](https://maps.app.goo.gl/Ytm9AZzZPeWNqfDf9)
+    - Flower Noritake 则武 （TIAD 酒店用的瓷器就是这个牌子） - [Google Map](https://maps.app.goo.gl/caoWffJLWrAR3nmd9)
 
 
 ## 细说亮点和感受
