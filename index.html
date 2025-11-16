@@ -2,11 +2,181 @@
 layout: index
 ---
 
-<ul class="posts">
-  {% for post in site.posts %}
-  <li>
-    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
-    <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-main">
+    <h1>写下路上的折腾、学习和小项目。</h1>
+    <p class="subtitle">
+      一些行旅记、一些工具实验、一些方法整理，还有一些纯粹的好奇心。
+    </p>
+    <p class="intro">
+      这里是 {{ site.signoff }} 的个人博客。内容包括：行旅记、学习笔记、实践记录、方法指南、
+      随想评论和项目日志。希望每一篇都能帮未来的自己少走一点弯路，也许也能帮到路过的你。
+    </p>
+  </div>
+  <aside class="hero-meta">
+    <div class="hero-meta-block">
+      <strong>最近在折腾</strong>
+      {% assign recent_tags = "" | split: "" %}
+      {% assign tag_limit = 10 %}
+      {% for post in site.posts %}
+        {% if post.tags %}
+          {% for tag in post.tags %}
+            {% unless recent_tags contains tag %}
+              {% assign recent_tags = recent_tags | push: tag %}
+              {% if recent_tags.size >= tag_limit %}
+                {% break %}
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+        {% endif %}
+        {% if recent_tags.size >= tag_limit %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      <ul class="tag-list">
+      {% for tag in recent_tags %}
+        <li><a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+  </aside>
+</section>
+
+<!-- Category Sections -->
+<section class="home-sections">
+  <h2>按主题浏览</h2>
+  <div class="sections-grid">
+
+    <!-- 行旅记 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#行旅记">行旅记</a></h3>
+      <p class="desc">旅行见闻与游记</p>
+      <ul class="section-posts">
+        {% assign travel_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "行旅记" and travel_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign travel_count = travel_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#行旅记">更多行旅记 →</a></p>
+    </article>
+
+    <!-- 学习笔记 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#学习笔记">学习笔记</a></h3>
+      <p class="desc">关于阅读、语言学习和知识整理的记录与总结</p>
+      <ul class="section-posts">
+        {% assign learning_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "学习笔记" and learning_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign learning_count = learning_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#学习笔记">更多学习笔记 →</a></p>
+    </article>
+
+    <!-- 实践记录 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#实践记录">实践记录</a></h3>
+      <p class="desc">动手折腾、配置、踩坑和解决问题的过程记录</p>
+      <ul class="section-posts">
+        {% assign practice_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "实践记录" and practice_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign practice_count = practice_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#实践记录">更多实践记录 →</a></p>
+    </article>
+
+    <!-- 方法指南 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#方法指南">方法指南</a></h3>
+      <p class="desc">可复用的步骤、清单和小方法，写给未来的自己和路过的人</p>
+      <ul class="section-posts">
+        {% assign guide_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "方法指南" and guide_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign guide_count = guide_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#方法指南">更多方法指南 →</a></p>
+    </article>
+
+    <!-- 随想评论 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#随想评论">随想评论</a></h3>
+      <p class="desc">对书、工具、城市与日常生活的一些想法和感受</p>
+      <ul class="section-posts">
+        {% assign thoughts_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "随想评论" and thoughts_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign thoughts_count = thoughts_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#随想评论">更多随想评论 →</a></p>
+    </article>
+
+    <!-- 项目日志 -->
+    <article class="section-card">
+      <h3><a href="{{site.baseurl}}/categories#项目日志">项目日志</a></h3>
+      <p class="desc">跨一段时间做的事情：从起心动念到阶段小结</p>
+      <ul class="section-posts">
+        {% assign project_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.category == "项目日志" and project_count < 3 %}
+          <li>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% assign project_count = project_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <p class="more"><a href="{{site.baseurl}}/categories#项目日志">更多项目日志 →</a></p>
+    </article>
+
+  </div>
+</section>
+
+<!-- Latest Posts -->
+<section class="home-intro">
+  <h2>最新文章</h2>
+  <ul class="recent-posts">
+    {% for post in site.posts limit:8 %}
+    <li>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="more" style="text-align: right; margin: 0.5rem 0 0;">
+    <a href="{{site.baseurl}}/all-posts/">查看所有文章 →</a>
+  </p>
+</section>

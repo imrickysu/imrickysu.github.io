@@ -4,21 +4,25 @@
     {% include head.html %}
   </head>
   <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include post_pagination.html %}
-      <div class="content">
-        <section class='post'>
-          <h1>
-            
-            {{ page.title }}
-          </h1>
-          {{ content }}
-          {% include signoff.html %}
-        </section>
-      </div>
-      {% include meta.html %}
+    <div class="page">
+      {% include header.html %}
+      <main>
+        <div id='container'>
+          {% include post_pagination.html %}
+          <div class="content">
+            <section class='post'>
+              <h1>
+
+                {{ page.title }}
+              </h1>
+              {{ content }}
+              {% include signoff.html %}
+            </section>
+          </div>
+          {% include meta.html %}
+        </div>
+      </main>
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
   </body>
 </html>

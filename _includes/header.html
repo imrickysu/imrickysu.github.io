@@ -1,8 +1,15 @@
 <header>
-	<div>
-		
-			<span><a id="go-back-home" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/scribble.png" alt="Home" width="30" height="30"></a></span>
-			<span id="title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></span><br>
-		<span id="slogan">{{ site.description }}</span>
+	<div class="brand">
+		<div class="site-title" id="title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></div>
+		<div class="site-subtitle" id="slogan">{{ site.description }}</div>
 	</div>
+	<nav>
+		<ul>
+			{% for link in site.links %}
+				{% unless link.external %}
+				<li><a href="{{ link.url }}">{{ link.name }}</a></li>
+				{% endunless %}
+			{% endfor %}
+		</ul>
+	</nav>
 </header>

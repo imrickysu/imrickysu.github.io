@@ -13,6 +13,8 @@ links:
 
   - name:         首页
     url:          /
+  - name:         所有文章
+    url:          /all-posts/
   - name:         文章分类
     url:          /categories
   - name:         Tags
