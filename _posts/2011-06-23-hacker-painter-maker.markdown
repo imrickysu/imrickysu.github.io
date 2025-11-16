@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hacker Painter Maker
-categories: 评论
+title: 《黑客与画家》Hacker Painter Maker
+category: 随想评论
 tags:
-- 书评
+  - 阅读
+  - 联想
+
 ---
 感谢6.18，感谢[京东](http://book.360buy.com/10582495.html)，感谢SJW告诉我，感谢这个图书折上折活动，感谢[豆瓣](http://www.douban.com/people/RickySu/)保存着我200本“[想读的书](http://book.douban.com/people/RickySu/wish)”的书单，感谢阮一峰的翻译，感谢大家的推荐，最终让我读到了这本《[黑客与画家](http://book.douban.com/subject/6021440/)》。
 

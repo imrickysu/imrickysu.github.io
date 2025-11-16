@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Apple TV 2
-categories: 折腾
+category: 实践记录
 tags:
-- Gadgets
-- Apple TV
+  - 硬件
+
 ---
 12/21/2012
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "澳大利亚总结与攻略"
-categories: 旅行
+category: 行旅记
 tags:
-- 澳大利亚
-- 游记
+  - 旅行
 ---
 
 

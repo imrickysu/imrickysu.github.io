@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "WebEx录制屏幕和转换格式"
-date:   2013-10-22 22:13:50
-categories: 折腾
+category: 方法指南
 tags:
-- App
+  - 效率工具
+
 ---
 
 对录制屏幕要求不是很高的情况下，WebEx是一套比较合适的工具。

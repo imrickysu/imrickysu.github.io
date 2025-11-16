@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "美联航之壹贰叁"
-categories: 旅行
+category: 行旅记
 tags:
-- 美联航
-- 航空公司
+  - 旅行
+  - 清单
+
 ---
 1. [美联航客服联系方式](http://www.cn.united.com/local/chinese/customerservice/index.html)
 

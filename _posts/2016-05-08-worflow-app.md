@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "iOS Workflow App"
-categories: 折腾
+category: 实践记录
 tags:
-- App
+  - iOS
+  - Workflow
+  - 效率工具
 ---
 
 Workflow App 可以说是 iOS 里的 Automator。它能连接各个App的API，实现一系列比较复杂的动作。

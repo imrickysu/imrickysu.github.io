@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "纽约小记：经验总结"
-categories: 旅行
+category: 行旅记
 tags:
-- 纽约
-- 旅行经验
+  - 旅行
+
 ---
 如果再有机会去纽约，要怎么玩？
 ## 机票 ##

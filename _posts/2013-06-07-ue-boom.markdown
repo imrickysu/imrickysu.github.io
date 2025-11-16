@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "新玩具-罗技UE BOOM蓝牙便携音箱"
-categories: 评论
+category: 随想评论
 tags:
-- Gadgets
+  - 硬件
 
 ---
 苹果店真是一个大玩具店。今天又搬回来一只新玩具。貌似这也是我从上海苹果店买的第一件货 >_<

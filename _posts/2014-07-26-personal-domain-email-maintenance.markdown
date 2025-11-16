@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "用QQMail和Google托管个人域名邮箱"
-categories: 折腾
+category: 实践记录
 tags:
-- Web
-- E-Mail
-- App
+  - 效率工具
+  - 邮件
+
 ---
 突然意识到我收不到发到i@rickysu.com的邮件了。
 

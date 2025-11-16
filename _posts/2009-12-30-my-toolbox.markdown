@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "我的工具箱 2009"
-categories: 总结
+category: 方法指南
 tags:
-- App
+  - 效率工具
+  - 清单
 
 ---
 整理在Windows平台常用的免费工具：

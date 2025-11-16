@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "访问旧金山TechShop"
-categories: 旅行
+category: 随想评论
 tags:
-- 游记
-- 旧金山
-- TechShop
+  - 旅行
+  - Maker
+  - 理解
+
 ---
 
 ### 开头 ###

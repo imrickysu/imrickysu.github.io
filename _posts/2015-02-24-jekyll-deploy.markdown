@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Jekyll 同时使用 Github Page 和阿里云"
-categories: 折腾
+category: 实践记录
 tags:
-- Jekyll
-- 阿里云
+  - Jekyll
+  - 阿里云
+  - GitHub
 ---
 我的Blog是host在Github Page的，每次Commit后自动Build，一秒钟后就能看到更新的页面了，而且Github本来就有CDN，从美国、欧洲、澳洲访问速度都很不错，Ping响应时间 < 10 毫秒，一切看上去都挺完美的。可是折腾君还是打算折腾一下，一来因为Github到中国的连接不是很稳定，有些地区有时会连不上，Ping响应时间也在50-150毫秒之间；二来几个月前买的阿里云到现在还是空放着，还是想找点东西放在上面别浪费了。看到[SJW同学前两天搞了分国内外线路](http://www.cnsjw.cn/2015/01/use-aws-and-cloudfront/)，就也学来折腾一下。
 

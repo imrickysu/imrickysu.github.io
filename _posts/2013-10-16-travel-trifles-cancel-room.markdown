@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "旅行小事之退房记"
-categories: 旅行
+category: 行旅记
 tags:
-- 美国
-- 旅行经验
+  - 旅行
 
 ---
 

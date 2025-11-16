@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "旅行小事之被拿错行李"
-categories: 旅行
+category: 行旅记
 tags:
-- 美国
-- 旅行经验
+  - 旅行
+
 ---
 
 ### 前记 ###

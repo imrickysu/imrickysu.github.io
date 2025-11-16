@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "日本京都大阪旅行流水+攻略"
-categories: 旅行
+category: 行旅记
 tags:
-- 旅行经验
+  - 旅行
 ---
 今年一月去了日本京都和大阪，记录一些信息以供朋友们参考。个人经验所限，没办法写得很完整，建议同时参考[穷游锦囊](http://guide.qyer.com/kyoto/)，以及XFun吃货俱乐部京都篇([爱奇艺](http://www.iqiyi.com/v_19rr9wpnfo.html)|[YouTube](https://www.youtube.com/watch?v=I5ARkiz9ml4&t=1s))。
 

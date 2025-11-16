@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "扩展Mac Book Air的存储"
-categories: 折腾
+category: 实践记录
 tags:
-- Mac
+  - Mac
+  - 硬件
 
 ---
 

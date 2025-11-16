@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "成都印象2014"
-categories: 旅行
+category: 行旅记
 tags:
-- 成都
-- 旅行印象
+  - 旅行
+
 ---
 
 ##成都机场

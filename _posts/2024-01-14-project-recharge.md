@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Project Recharge: 更多探索，更好休整"
-categories: 折腾
+category: 项目日志
 tags:
-- 时间管理
-- 旅行经验
+  - 项目:Recharge
+  - 旅行
+
 ---
 
 想做得太多，能做的太少

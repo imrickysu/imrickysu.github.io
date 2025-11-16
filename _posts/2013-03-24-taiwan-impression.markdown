@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "台湾印象"
-categories: 旅行
+category: 行旅记
 tags:
-- 台湾
-- 旅行印象
+  - 旅行
+
 ---
 
 

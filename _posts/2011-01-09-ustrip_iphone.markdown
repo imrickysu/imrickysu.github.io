@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "美国旅行常用iPhone程序(2011)"
-categories: 旅行
+category: 行旅记
 tags:
-- App
-- 旅行经验
+  - 旅行
+  - iOS
+  - 清单
+
 ---
 ![](/images/iphone_icons.png "iphone_icons")
 

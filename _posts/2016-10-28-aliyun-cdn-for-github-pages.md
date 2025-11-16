@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "用阿里云CDN“加速” Github Pages"
-categories: 折腾
+title: "用阿里云 CDN 加速 Github Pages"
+category: 实践记录
 tags:
+  - Jekyll
+  - CDN
+  - 阿里云
 ---
 ## 配置过程
 

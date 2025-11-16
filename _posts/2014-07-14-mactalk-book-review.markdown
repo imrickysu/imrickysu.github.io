@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "《MacTalk人生元编程》读后感"
-categories: 评论
+category: 随想评论
 tags:
-- 书评
+  - 阅读
+
 ---
 
 书正读完的时候，正好[Teahour](http://teahour.fm)发布了一期对作者池建强的[采访](http://teahour.fm/2014/07/04/talk-with-chi-jian-qiang.html)。结合采访来谈谈这本书吧。

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "我的Jekyll模版修改记录(2015.02)"
-categories: 折腾
+category: 实践记录
 tags:
-- Jekyll
+  - Jekyll
+  - 博客
 ---
 ## 2014.05 ##
 - 换上[Scribble模版](https://github.com/chloerei/scribble) [\[Github Commit\]](https://github.com/imrickysu/imrickysu.github.io/commit/8d8695fac34e63051b20af183d4b13190e2bb204)

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "GitHub, Curl 以及 Bash"
-categories: 折腾
+category: 实践记录
 tags:
-- App
+  - GitHub
+  - Bash
 ---
 
 GitHub付费个人用户可以有unlimited repo，买了，准备把以前不愿意整理、不适合公开的工程备份上去。说来奇怪，打扮GitHub是我比较愿意做的事情，相比在本地整理，把内容传上Web可视的GitHub，更有仪式感和成就感，即使是自己使用的Private Repo。而且同是Private Repo，传到BitBucket的成就感就远不如GitHub。

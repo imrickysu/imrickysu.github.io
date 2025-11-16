@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Share Friday: Markdown FreeMind Everything 及其他"
-categories: 折腾
+category: 方法指南
 tags:
-- App
+  - 效率工具
+
 ---
 
 

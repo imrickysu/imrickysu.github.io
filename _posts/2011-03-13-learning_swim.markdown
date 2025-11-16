@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "自学游泳小有成就"
-categories: 总结
+category: 实践记录
 tags:
-- 经验总结
-- 游泳
+  - 运动
+
 ---
 最近在游泳。感觉终于入了门，颇有小心得。分享一下感受。
 

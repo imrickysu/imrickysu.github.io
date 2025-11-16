@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Nutrition Diva"
-categories: 评论
+category: 学习笔记
 tags:
-- Fitness
-- 营养
+  - 健身
+  - 饮食
+  - 摘录
+
 ---
 
 

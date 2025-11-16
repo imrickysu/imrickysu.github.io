@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "把日记从 Dayone 转移到 Notion"
-categories: 折腾
+category: 实践记录
 tags:
-- App
-- Web
+  - Notion
+  - DayOne
 ---
 
 自从 Notion 对个人免费以后，越来越多地使用 Notion，也在 Notion 上记了一阵子日记，感觉体验还行。研究了 Notion 的导出结构后发现 Notion 的导出也做得很好，就没有什么顾虑地把所有的日记从 DayOne 转移到了 Notion。

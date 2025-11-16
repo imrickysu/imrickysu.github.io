@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Cancun旅行攻略"
-categories: 旅行
+category: 行旅记
 tags:
-- 旅行攻略
-- Cancun
+  - 旅行
 ---
 
 ## 签证 ##

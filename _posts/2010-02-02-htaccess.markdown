@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "话说.htaccess转移地址"
-categories: 折腾
+title: "用.htaccess重定向博客地址"
+category: 实践记录
 tags:
-- Web
+  - 博客
+
 ---
 ![](/images/404-vs-301-redirect.jpg "404-vs-301-redirect")
 

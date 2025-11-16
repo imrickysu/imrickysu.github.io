@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "2013 Gadgets Review"
-categories: 评论
+category: 随想评论
 tags:
-- Gadgets
+  - 硬件
+
 ---
 
 ## B&W C5 ##

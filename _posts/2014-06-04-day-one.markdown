@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Day One App"
-categories: 评论
+category: 随想评论
 tags:
-- App
+  - 效率工具
+  - iOS
+  - 信息管理
+
 ---
 刚花了$9.99买了[DayOne](http://dayoneapp.com/)的Mac端。下面准备从一个用户的角度分析一下我为什么买这款软件，或许对一些设计软件的人会有用吧，了解一下用户心理:)
 
