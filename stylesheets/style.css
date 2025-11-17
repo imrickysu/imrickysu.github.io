@@ -652,6 +652,41 @@ time {
   font-size: 0.9em;
 }
 
+/* Collapsible single-item tags */
+.single-item.collapsed {
+  display: none;
+}
+
+.more-button {
+  background: none;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  padding: 0.4rem 1rem;
+  margin: 1rem 0;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  display: inline-block;
+}
+
+.more-button:hover {
+  background: var(--accent);
+  color: var(--background);
+}
+
+.tag-posts {
+  margin-left: 0;
+}
+
+#tags-nav .more-button {
+  margin-top: 0.5rem;
+}
+
+#tags-content .more-button {
+  margin-top: 1rem;
+}
+
 /* Meta/about page */
 
 #meta {
